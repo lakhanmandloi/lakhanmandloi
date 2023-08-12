@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhanmandloi&show_icons=true&locale=en" alt="lakhanmandloi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhanmandloi&" alt="lakhanmandloi" /></p>
+
+https://api.roadmap.sh/v1-badge/tall/64d7b923aa497d7fa52bcde5?variant=dark
