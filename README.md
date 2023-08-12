@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhanmandloi&" alt="lakhanmandloi" /></p>
 
-https://api.roadmap.sh/v1-badge/tall/64d7b923aa497d7fa52bcde5?variant=dark
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64d7b923aa497d7fa52bcde5?variant=dark)](https://roadmap.sh)
