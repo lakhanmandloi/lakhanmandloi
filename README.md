@@ -1,21 +1,16 @@
 # 👋 Hi, I'm Lakhan Mandloi
 ### Experienced Full-stack developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanmandloi" /> </p>
+- 🌱 I’m currently learning **Elixir and Rust**
+- 👨‍💻 All of my projects are available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
+- 📝 I regularly write articles on [https://lakhanmandloi.in/blogs.html](https://lakhanmandloi.in/blogs.html)
+- 💬 Ask me about **React, JavaScript and CSS**
+- 📫 How to reach me **namaste@lakhanmandloi.in**
+- 📄 Know about my experiences [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanmandloi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhanmandloi" alt="lakhanmandloi" /></a> </p>
-
-- 🌱 I’m currently learning **Elixir and Rust**
-
-- 👨‍💻 All of my projects are available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
-
-- 📝 I regularly write articles on [https://lakhanmandloi.in/blogs.html](https://lakhanmandloi.in/blogs.html)
-
-- 💬 Ask me about **React, JavaScript and CSS**
-
-- 📫 How to reach me **namaste@lakhanmandloi.in**
-
-- 📄 Know about my experiences [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
