@@ -9,10 +9,6 @@
 - 📄 Know about my experiences [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
 
 
-<img src="https://raw.githubusercontent.com/lakhanmandloi/lakhanmandloi/main/JavaScript.svg" alt="JavaScript" height="40"/>
-
-
-
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanmandloi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhanmandloi" alt="lakhanmandloi" /></a> </p>
