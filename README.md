@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lakhan Mandloi
-## Experienced Full stack developer.
+### Experienced Full-stack developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanmandloi" /> </p>
 
