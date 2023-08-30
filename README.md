@@ -1,7 +1,5 @@
-![Header](./github-header-image.png)
-
 # 👋 Hi, I'm Lakhan Mandloi
-### Experienced Full-stack developer.
+### Full-stack developer (Frontend focused).
 
 - 🌱 I’m currently learning **Elixir and Rust**
 - 👨‍💻 All of my projects are available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
