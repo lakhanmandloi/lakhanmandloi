@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner-en.jpeg)
 
 # 👋 Hi, I'm Lakhan Mandloi
 ### Experienced Full-stack developer.
