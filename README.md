@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Lakhan Mandloi
-### Full-stack developer (Frontend focused).
+### Senior Frontend Developer.
 
-- 🌱 I’m currently learning **Elixir and Rust**
-- 👨‍💻 All of my projects are available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
-- 📝 I regularly write articles on [https://lakhanmandloi.in/blogs.html](https://lakhanmandloi.in/blogs.html)
-- 💬 Ask me about **React, JavaScript and CSS**
+- 🌱 I’m currently learning **Next.js and Elixir**
+- 💬 Ask me about **React, JavaScript, CSS and DevOps**
+- 👨‍💻 All my details available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
 - 📫 How to reach me **namaste@lakhanmandloi.in**
-- 📄 Know about my experiences [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
-
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhanmandloi&label=Profile%20views&color=0e75b6&style=flat" alt="lakhanmandloi" /> </p>
 
