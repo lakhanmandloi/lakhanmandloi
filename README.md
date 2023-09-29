@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakhan Mandloi
-### Senior Frontend Developer.
 
-- 🌱 I’m currently learning **Next.js and Elixir**
+- 🧑‍💼 I’m Seasoned Senior Software Engineer at CLSA Technology & Services LLP with 8+ years of experience in Frontend development and DevOps. Led 60+ projects, assumed tech lead and scrum master roles. Passionate about innovative, user-friendly solutions with a focus on positive societal and environmental impact.
 - 💬 Ask me about **React, JavaScript, CSS and DevOps**
-- 👨‍💻 All my details available at [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
-- 📫 How to reach me **namaste@lakhanmandloi.in**
+- 🌱 I’m currently learning **Next.js and Elixir**
+- 🔗 More details at: [https://lakhanmandloi.in/](https://lakhanmandloi.in/)
+- 📫 Contact me: **namaste@lakhanmandloi.in**
