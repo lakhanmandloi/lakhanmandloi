@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lakhan Mandloi
 
-- 🧑🏻‍💻 I'm a seasoned Senior Frontend Developer with 10+ years of experience, specialising in user-friendly solutions that positively impact society and the environment. Additionally, I have a strong background in DevOps, ensuring seamless integration and deployment for the projects I've worked on. I've led projects as a tech lead, always prioritising quality and user experience.
+- 🧑🏻‍💻 I'm a full stack developer and entrepreneur with 11+ years of experience, currently co-founding TAFT AI Technologies and working as the sole DevOps engineer at REVIVE Healthcare Group. I work across the stack — Frontend, Backend, and DevOps — building user-friendly solutions that positively impact society and the environment, and owning everything from CI/CD and infrastructure to deployment. I've led projects as a tech lead, always prioritising quality, reliability, and user experience.
 - 🛠️ **Skills**: React, TypeScript, JavaScript, CSS, HTML, Tailwind CSS, GraphQL, Docker and Github Actions.
-- 🌱 **Currently learning**: Next.js, Elixir, Phoenix Framework and Postgres
 - 🔗 **More details**: [https://lakhanmandloi.in](https://lakhanmandloi.in)
 - 📫 **Contact me**: namaste@lakhanmandloi.in
