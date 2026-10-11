@@ -1,6 +1,22 @@
 # 👋 Hi, I'm Lakhan Mandloi
 
-- 🧑🏻‍💻 I'm a full stack developer and entrepreneur with 11+ years of experience, currently co-founding TAFT AI Technologies and working as the sole DevOps engineer at REVIVE Healthcare Group. I work across the stack — Frontend, Backend, and DevOps — building user-friendly solutions that positively impact society and the environment, and owning everything from CI/CD and infrastructure to deployment. I've led projects as a tech lead, always prioritising quality, reliability, and user experience.
-- 🛠️ **Skills**: React, TypeScript, JavaScript, CSS, HTML, Tailwind CSS, GraphQL, Docker and Github Actions.
-- 🔗 **More details**: [https://lakhanmandloi.in](https://lakhanmandloi.in)
-- 📫 **Contact me**: namaste@lakhanmandloi.in
+Co-founder of [TAFT AI Technologies](https://www.tafttech.ai) ([@taft-ai](https://github.com/taft-ai)). I work as a
+**forward deployed engineer**: I embed with a team, own the problem end-to-end (frontend, backend, DevOps and the
+AI parts), and ship it to production, using AI tools to move faster without dropping quality. 11+ years of
+building products, including leading projects as a tech lead.
+
+### What I work on
+
+- 🎨 **Frontend**: React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+- 🧩 **Backend**: GraphQL and APIs
+- ⚙️ **DevOps**: Docker, GitHub Actions, CI/CD, infrastructure and deployment
+- 🤖 **AI-assisted engineering**: AI tools built into how I design, code, review and ship
+
+### Now
+
+- 🏢 Building AI products and engineering at [TAFT AI](https://www.tafttech.ai): AI products and engineering that ships
+- 🛠️ Sole DevOps engineer at REVIVE Healthcare Group
+
+### Links
+
+🔗 [lakhanmandloi.in](https://lakhanmandloi.in) · [LinkedIn](https://www.linkedin.com/in/lakhanmandloi) · 📫 namaste@lakhanmandloi.in
