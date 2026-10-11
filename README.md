@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakhan Mandloi
 
-Co-founder of [TAFT AI Technologies](https://www.tafttech.ai) ([@taft-ai](https://github.com/taft-ai)). I work as a
+Co-founder of [TAFT AI Technologies Private Limited](https://www.tafttech.ai) ([@taft-ai](https://github.com/taft-ai)). I work as a
 **forward deployed engineer**: I embed with a team, own the problem end-to-end (frontend, backend, DevOps and the
 AI parts), and ship it to production, using AI tools to move faster without dropping quality. 11+ years of
 building products, including leading projects as a tech lead.
@@ -14,7 +14,7 @@ building products, including leading projects as a tech lead.
 
 ### Now
 
-- 🏢 Building AI products and engineering at [TAFT AI](https://www.tafttech.ai): AI products and engineering that ships
+- 🏢 Building AI products and engineering at [TAFT AI Technologies Private Limited](https://www.tafttech.ai): AI products and engineering that ships
 - 🛠️ Sole DevOps engineer at REVIVE Healthcare Group
 
 ### Links
